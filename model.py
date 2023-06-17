@@ -1,6 +1,5 @@
 import os
 import json
-import chardet
 from datetime import datetime
 
 
